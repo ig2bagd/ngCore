@@ -1,0 +1,11 @@
+C:\Projects\core\ngCore\bin\Debug\netcoreapp2.0\ngCore.deps.json
+C:\Projects\core\ngCore\bin\Debug\netcoreapp2.0\ngCore.runtimeconfig.json
+C:\Projects\core\ngCore\bin\Debug\netcoreapp2.0\ngCore.runtimeconfig.dev.json
+C:\Projects\core\ngCore\bin\Debug\netcoreapp2.0\ngCore.dll
+C:\Projects\core\ngCore\bin\Debug\netcoreapp2.0\ngCore.pdb
+C:\Projects\core\ngCore\obj\Debug\netcoreapp2.0\ngCore.csprojAssemblyReference.cache
+C:\Projects\core\ngCore\obj\Debug\netcoreapp2.0\ngCore.csproj.CoreCompileInputs.cache
+C:\Projects\core\ngCore\obj\Debug\netcoreapp2.0\ngCore.AssemblyInfoInputs.cache
+C:\Projects\core\ngCore\obj\Debug\netcoreapp2.0\ngCore.AssemblyInfo.cs
+C:\Projects\core\ngCore\obj\Debug\netcoreapp2.0\ngCore.dll
+C:\Projects\core\ngCore\obj\Debug\netcoreapp2.0\ngCore.pdb
